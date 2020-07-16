@@ -1,0 +1,2 @@
+model_checkpoint_path: "Mini_Resnet_saveweights"
+all_model_checkpoint_paths: "Mini_Resnet_saveweights"
